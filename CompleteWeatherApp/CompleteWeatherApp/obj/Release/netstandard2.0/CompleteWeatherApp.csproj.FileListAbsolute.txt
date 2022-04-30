@@ -1,0 +1,14 @@
+C:\project\CompleteWeatherApp\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\bin\Release\netstandard2.0\CompleteWeatherApp.deps.json
+C:\project\CompleteWeatherApp\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\bin\Release\netstandard2.0\CompleteWeatherApp.dll
+C:\project\CompleteWeatherApp\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\bin\Release\netstandard2.0\ref\CompleteWeatherApp.dll
+C:\project\CompleteWeatherApp\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\bin\Release\netstandard2.0\CompleteWeatherApp.pdb
+C:\project\CompleteWeatherApp\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\project\CompleteWeatherApp\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Release\netstandard2.0\Views\CurrentWeatherPage.xaml.g.cs
+C:\project\CompleteWeatherApp\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Release\netstandard2.0\CompleteWeatherApp.AssemblyInfoInputs.cache
+C:\project\CompleteWeatherApp\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Release\netstandard2.0\CompleteWeatherApp.AssemblyInfo.cs
+C:\project\CompleteWeatherApp\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Release\netstandard2.0\CompleteWeatherApp.csproj.CoreCompileInputs.cache
+C:\project\CompleteWeatherApp\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Release\netstandard2.0\XamlC.stamp
+C:\project\CompleteWeatherApp\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Release\netstandard2.0\CompleteWeatherApp.dll
+C:\project\CompleteWeatherApp\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Release\netstandard2.0\ref\CompleteWeatherApp.dll
+C:\project\CompleteWeatherApp\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Release\netstandard2.0\CompleteWeatherApp.pdb
+C:\project\CompleteWeatherApp\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Release\netstandard2.0\CompleteWeatherApp.csprojAssemblyReference.cache

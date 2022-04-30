@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fYfZjHs5CVZcMp6vvfGLbUNNtEjnpKDvSyfbgTRseO4oWo1aoER8jMtqbnynzmbu36LM0Tj9lifys/89S1MdMw==",
+  "success": true,
+  "projectFilePath": "C:\\project\\CompleteWeatherApp\\CompleteWeatherApp-master\\CompleteWeatherApp\\CompleteWeatherApp\\CompleteWeatherApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oci20\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\oci20\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\oci20\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\oci20\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\oci20\\.nuget\\packages\\xamarin.essentials\\1.7.2\\xamarin.essentials.1.7.2.nupkg.sha512",
+    "C:\\Users\\oci20\\.nuget\\packages\\xamarin.forms\\5.0.0.2401\\xamarin.forms.5.0.0.2401.nupkg.sha512"
+  ],
+  "logs": []
+}
